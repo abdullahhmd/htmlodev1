@@ -1,2 +1,2 @@
 # htmlodev1
-sosyal medya iconlarini internettrn hazır kod olarak kullandım hocam
+sosyal medya iconlarini internetten hazır css olarak kullandım hocam
